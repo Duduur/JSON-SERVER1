@@ -1,0 +1,73 @@
+{
+    "fotos" : [
+        {
+            "id" : 1,
+            "imagem" : "http://localhost:3000/biblioteca.jpeg",
+            "legenda" : "Local de descanço do Senai",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 2,
+            "imagem" : "http://localhost:3000/cantina.jpeg",
+            "legenda" : "Minha felicidade o Senai todos os dias",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 3,
+            "imagem" : "http://localhost:3000/geladeira.jpeg",
+            "legenda" : "Sem ela eu não almoçava",
+            "data" : "31/04/2025"
+        },
+    
+        {
+            "id" : 4,
+            "imagem" : "http://localhost:3000/lancer.jpeg",
+            "legenda" : "Carro mais bonito do senai (obs: É do marcel)",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 5,
+            "imagem" : "http://localhost:3000/pc.jpeg",
+            "legenda" : "Melhor sala do Senai",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 6,
+            "imagem" : "http://localhost:3000/placa_senai.jpeg",
+            "legenda" : "Achei bonito",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 7,
+            "imagem" : "http://localhost:3000/quadra.jpeg",
+            "legenda" : "Quadra é onde acontece as resenhas de sabádo",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 8,
+            "imagem" : "http://localhost:3000/pc.jpeg",
+            "legenda" : "Melhor sala do Senai",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 9,
+            "imagem" : "http://localhost:3000/scorpion.jpeg",
+            "legenda" : "Placa de perigo chave",
+            "data" : "31/04/2025"
+        },
+
+        {
+            "id" : 10,
+            "imagem" : "http://localhost:3000/senai de lado.jpeg",
+            "legenda" : "Vista bonita do senai",
+            "data" : "31/04/2025"
+        }
+    ]
+}
